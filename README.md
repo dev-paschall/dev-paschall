@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Paschal Arowolo
 
-I'm a DevOps and Automation Engineer in training — learning in public, building real projects, and growing one script at a time.
+I'm a DevOps and Automation Engineer in training. learning in public, building real projects, and growing one script at a time.
 
 ---
 
@@ -28,7 +28,7 @@ First project drops soon. Then the next. Then the next.
 
 ## 📌 Why I'm Doing This
 I want to build discipline. I want to grow through real work.  
-And I want everything I learn to be useful — not just theoretical.
+And I want everything I learn to be useful, not just theoretical.
 
 ---
 
