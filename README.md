@@ -11,6 +11,15 @@ I'm a DevOps and Automation Engineer in training — learning in public, buildin
 
 ---
 
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
 ## 🛠 Projects Coming Soon
 I'm currently working on small, real-world automation tools as part of my 6-week DevOps GitHub streak.  
 First project drops soon. Then the next. Then the next.
